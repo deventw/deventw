@@ -31,7 +31,7 @@
 <img src="https://skillicons.dev/icons?i=swift,apple" />
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 <img src="https://skillicons.dev/icons?i=vercel,netlify" />
-<img src="https://skillicons.dev/icons?i=git,vscode,stackoverflow,postman,figma,ps,obsidian" />
+<img src="https://skillicons.dev/icons?i=git,vscode,stackoverflow,postman,figma,ps,ai,obsidian" />
 <img src="https://skillicons.dev/icons?i=raspberrypi" />
 
 ## 🤝 有事您說話 ｜ Contact Me
