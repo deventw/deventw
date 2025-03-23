@@ -1,7 +1,9 @@
 # 👋 Hello ! | 你好 ！
 
+<!--
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8168F7&width=435&lines=%E9%A3%9F%E5%92%97%E9%A3%AF%E6%9C%AA%E5%91%80%EF%BC%9F" alt="Typing SVG" />
 <img src="https://komarev.com/ghpvc/?username=deventw&color=blueviolet&style=plastic">
+
 
 <samp>
 
@@ -23,7 +25,7 @@
 - 🌱 學習就像種蘋果，一年年種下新苗，才會有更多收穫。
 - 🔥 技術改變世界，慢慢來就好，就像煲糖水，火候到了，自然會甜。
 </details>
-
+-->
 ## 🛠️ 我折騰的東西 ｜ Tech Stack
 >「東摸摸，西看看，總想弄出點有意思的東西。」
 <img src="https://skillicons.dev/icons?i=html,js,ts,react,vite,yarn,bun" />
