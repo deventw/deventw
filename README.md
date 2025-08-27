@@ -28,12 +28,13 @@
 -->
 ## 🛠️ Tech Stack
 > “Always building something interesting.”
-<img src="https://skillicons.dev/icons?i=html,js,ts,react,vite,yarn,bun" />
+<img src="https://skillicons.dev/icons?i=html,js,ts,react,nextjs,vite,vitest">
 <img src="https://skillicons.dev/icons?i=css,tailwind,styledcomponents,bootstrap" />
-<img src="https://skillicons.dev/icons?i=swift,apple" />
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-<img src="https://skillicons.dev/icons?i=vercel,netlify" />
-<img src="https://skillicons.dev/icons?i=git,vscode,stackoverflow,postman,figma,ps,ai,obsidian" />
+<img src="https://skillicons.dev/icons?i=swift,apple,reactnative,expo,reactnavigation" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=bun,yarn,npm" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,docker" />
+<img src="https://skillicons.dev/icons?i=git,vscode,stackoverflow,postman,figma,ps,ai,obsidian,notion" />
 <img src="https://skillicons.dev/icons?i=raspberrypi" />
 
 ## 🤝 Contact Me
