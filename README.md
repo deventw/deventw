@@ -1,5 +1,3 @@
-# Halo there!
-
 ### Hi, I'm Deven 👋
 - 💻 A passionate Full-Stack Developer  
 - ✨ Addicted to pixel-perfect details & buttery-smooth animations  
