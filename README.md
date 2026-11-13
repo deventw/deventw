@@ -41,12 +41,15 @@ Portfolio [deven.tw](https://www.deven.tw) · Mail [hi@deven.tw](mailto:hi@deven
 **Database**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-4ECDC4?style=flat-square&logo=drizzle&logoColor=000)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-000000?style=flat-square&logo=neon&logoColor=00FF85)
+
 
 **Frontend**
 
