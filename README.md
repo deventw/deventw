@@ -1,4 +1,4 @@
-### Deven · Full-Stack Developer, Hong Kong
+### Deven · Full-Stack Developer
 
 I build web and mobile products end to end, from the first sketch to the deploy, and I care about the details users actually feel. Currently building internal systems and client platforms in Hong Kong.
 
